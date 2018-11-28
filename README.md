@@ -1,6 +1,6 @@
-# Learn __The C Programing Language__
+# Learn _The C Programing Language_
 
-This project is a collection of quizes for learning __The C Programing Language__. I use [CMake](https://cmake.org/) to build the quizes.
+This project is a collection of quizes for learning _The C Programing Language_. I use [CMake](https://cmake.org/) to build the quizes.
 
 ## Build Quiz and Run
 
