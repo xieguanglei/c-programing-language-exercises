@@ -1,0 +1,1 @@
+add_executable(setbits setbits.c)

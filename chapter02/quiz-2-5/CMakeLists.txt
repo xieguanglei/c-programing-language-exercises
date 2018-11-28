@@ -1,0 +1,1 @@
+add_executable(any any.c)
